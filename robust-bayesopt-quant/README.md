@@ -7,7 +7,7 @@ This project focuses on **Robustness** over raw backtest returns. Instead of usi
 
 The engine successfully navigated the massive volatility of 2020-2021 (the Oil Price War), proving its survival capabilities before generating Alpha in 2023.
 
-![Strategy Performance](performance_tearsheet.png)
+![Strategy Performance](robust-bayesopt-quant/images/performance_tearsheet.png)
 *(Fig 1. Walk-Forward Out-of-Sample Performance showing risk-managed recovery after the 2020-21 regime shift.)*
 
 ### **The Key Engineering Challenges (The "Fixes")**
@@ -40,3 +40,4 @@ This project's primary value lies in identifying and fixing common backtesting b
 
 ---
 *Created by Vaibhav Panda as a Quant Research project demonstrating professional risk management and advanced optimization.*
+
